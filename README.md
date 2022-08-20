@@ -1,5 +1,5 @@
 # Person-Detection-YOLOV5
-Crowdhuman veri setiyle Yolov5 kullanılarak eğitilmiş insan ve insan kafası tespiti yapan program.Programda Fastapi frameworku kullanılmıştır.
+Crowdhuman veri setiyle Yolov5 ile eğittim, Fastapi frameworku kullanarak servis açtım ve programı bu servis üzerinden çalıştırılır vaziyette size sunuyorum.
 
 Crowdhuman veri seti: https://www.crowdhuman.org/
 
