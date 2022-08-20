@@ -14,7 +14,7 @@ Yolov5 eğitim için kullandığım colab linki: https://colab.research.google.c
 
 
 
-Linke tıkladıktan sonra açılan sayfadan linkin sonuna /docs yazın tıpkı aşağıdaki resimdeki gibi ve enter tuşuna basın.
+Linke tıkladıktan sonra açılan sayfadan linkin sonuna aşağıdaki resimdeki gibi /docs yazın ve enter tuşuna basın.
 ![](User_guide/docs.png)
 
 
