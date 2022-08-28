@@ -29,5 +29,5 @@ Denemeye buradan başlayalım resimde gördüğünüz adımları uygulayın ve y
 
 
 
-Burayıda bir önceki adımdaki gibi deneyip dikdörtgenlerin veya karelerin X ve Y kordinatlarını alabilirsiniz.
+Burayıda bir önceki adımdaki gibi deneyip dikdörtgenlerin veya karelerin X ve Y kordinatlarını alabilirsiniz...
 ![](User_guide/Fastapi_using2.png)
