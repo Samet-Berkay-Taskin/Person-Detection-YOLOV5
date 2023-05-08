@@ -32,4 +32,4 @@ Denemeye buradan başlayalım resimde gördüğünüz adımları uygulayın ve y
 Burayıda bir önceki adımdaki gibi deneyip dikdörtgenlerin veya karelerin X ve Y kordinatlarını alabilirsiniz...
 ![](User_guide/Fastapi_using2.png)
 
-### Not:Bu programdaki yorum satılarının ingilizce olmasının sebebi stajımda yorum satırlarının ingilizce olması istenmesiydi.Tavsiyem türkçeye çevirip satırdaki kodları daha iyi anlamanız.
+### Not:Bu programdaki yorum satılarının ingilizce olmasının sebebi stajımda yorum satırlarının ingilizce istenmesiydi.Tavsiyem türkçeye çevirip satırdaki kodları daha iyi anlamanız.
